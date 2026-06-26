@@ -1,2 +1,2 @@
 hi
-<img src="giphy.mp4" width=100%
+<img src="banner.gif" width="100%">
