@@ -1,3 +1,4 @@
-Hey, I'm Riya!
-<img src="https://pin.it/6KQLuR7BZ" width=100%
-https://github-readme-stats.vercel.app/api?username=xyz1uv
+hi
+<img src="" width=100%
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xyz1uv)
